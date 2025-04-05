@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software engineering Projects:</h2>
 
 - <b>Mobile App Wireframes</b>
-  - [Hersafe Haven](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Hersafe Haven](https://miro.com/app/board/uXjVIZFVv8Q=/?share_link_id=732661455688)
 
 <h2>📺 Video Presentation</h2>
 
-- [Hersafe Haven]([https://youtu.be/ck3FMsSwnok?si=wTVubKpCAu88MVaU])
+- [Hersafe Haven](https://youtu.be/ck3FMsSwnok?si=wTVubKpCAu88MVaU])
 
 <h2> 🤳 Connect with me:</h2>
 
